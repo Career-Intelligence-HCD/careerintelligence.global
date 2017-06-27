@@ -1,0 +1,2 @@
+# careerintelligence.global
+global site
